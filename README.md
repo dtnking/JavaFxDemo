@@ -1,11 +1,11 @@
 This is a demo project of how to use JavaFx 11 (include the libraries, modules and dependencies). The IDE I used in this project is IntelliJ by JetBrains which can be downloaded [here](https://www.jetbrains.com/idea/download/#section=windows).
 
-I am using JDK 11 which you will need to include all the libraries, modules or dependencies needed manually whenever you use JavaFx. (Previous version had all of them within the SDK). Else, the following errors will be generated:
+I am using JDK 11 which you will need to include all the libraries, modules or dependencies needed manually whenever you use JavaFx. (Previous version had all of them within the SDK). Else, the following errors will be generated:<br/>
 
-Without including the libraries:
+Without including the libraries:<br/>
  ![image4592](https://user-images.githubusercontent.com/26379432/50488052-a17a3600-0a3b-11e9-8de3-03167e5f5c25.png)
 
- Without including the modules:
+ Without including the modules:<br/>
  ![image4603](https://user-images.githubusercontent.com/26379432/50489358-2ec08900-0a42-11e9-93cc-3f780f98f464.png)
 
  The steps to include are as below:
